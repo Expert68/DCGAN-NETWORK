@@ -1,0 +1,2 @@
+# DCGAN-NETWORK
+基于DCGAN-NETWORK自动生成花朵
